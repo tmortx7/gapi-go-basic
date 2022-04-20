@@ -1,1 +1,14 @@
 # gapi-go-basic
+- [] Makefile
+- [] Make db folder(s) for sqlc db/...
+- [] sqlc cmd>> sqlc init
+- [] update sqlc.yml with config
+- [] migrate cmd>> migrate create -ext sql -dir db/migration -seq init_schema
+- [] add schema for desired database tables
+- [] create sqlc database query files. db/query
+- [] Makefile cmd >> make network
+- [] Makefile cmd >> make postgres
+- [] Makefile cmd >> make createdb
+- [] Makefile cmd >> make migrateup
+- [] bash into docker postgres: psql >> \c dbdata >> \dt
+- [] Makefile cmd >> make sqlc
