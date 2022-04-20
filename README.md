@@ -1,6 +1,6 @@
 # gapi-go-basic
-- [ ] Makefile
-- [ ] Make db folder(s) for sqlc db/...
+- [ ] create maker file >> Makefile
+- [ ] create db folder(s) for sqlc db/...
 - [ ] update sqlc.yml with config
 - [ ] migrate cmd>> migrate create -ext sql -dir db/migration -seq init_schema
 - [ ] add schema for desired database tables
