@@ -1,6 +1,3 @@
 # gapi-go-basic
-- [ ] create folder proto, pb in root
-- [ ] create file user.proto in proto folder
-- [ ] config message for user
-- [ ] update Makefile with proto cmd
+- [ ] create file rpc_create_user.proto in proto folder
 - [ ] make cmd >> make proto
