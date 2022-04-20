@@ -1,4 +1,4 @@
 # gapi-go-basic
-- [ ] create viper config file >> util/config.go
-- [ ] create viper env file in the root dir >>app.env
-- [ ] create main_test.go file in db/sqlc folder
+- [ ] create file password.go in util folder
+- [ ] create bcryto hashpassword function
+- [ ] create file password_test.go in util folder to test
