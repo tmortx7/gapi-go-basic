@@ -1,2 +1,3 @@
 # gapi-go-basic
-- [ ] create main.go server file
+- [ ] create rpc_login_user proto
+- [ ] update simple service with LoginUser request response
