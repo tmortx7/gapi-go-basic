@@ -1,5 +1,4 @@
 # gapi-go-basic
-- [ ] create file service_simple.proto
-- [ ] config service -> createUser
-- [ ] makefile cmd >> make proto
-- [ ] go mod tidy
+- [ ] create folder val in root
+- [ ] create validator.go in val folder
+- [ ] config conditions for create User validation
