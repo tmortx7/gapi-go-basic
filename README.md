@@ -10,5 +10,5 @@
 - [ ] Makefile cmd >> make postgres
 - [ ] Makefile cmd >> make createdb
 - [ ] Makefile cmd >> make migrateup
-- [ ] bash into docker postgres: psql >> \c dbdata >> \dt
+- [ ] To check config of database >>bash into docker postgres: psql >> \c dbdata >> \dt
 - [ ] Makefile cmd >> make sqlc
