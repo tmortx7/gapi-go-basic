@@ -3,11 +3,13 @@ module github.com/tmortx7/gapi-go-basic
 go 1.18
 
 require (
+	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.3.0
 	github.com/lib/pq v1.10.5
 	github.com/spf13/viper v1.11.0
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	google.golang.org/protobuf v1.28.0
 )
 
 require (

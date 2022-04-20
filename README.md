@@ -1,4 +1,6 @@
 # gapi-go-basic
-- [ ] create file password.go in util folder
-- [ ] create bcryto hashpassword function
-- [ ] create file password_test.go in util folder to test
+- [ ] create folder proto, pb in root
+- [ ] create file user.proto in proto folder
+- [ ] config message for user
+- [ ] update Makefile with proto cmd
+- [ ] make cmd >> make proto
