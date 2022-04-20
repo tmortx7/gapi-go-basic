@@ -1,14 +1,4 @@
 # gapi-go-basic
-- [ ] create maker file >> Makefile
-- [ ] create folders migration, query, mock, sqlc under a db root folder
-- [ ] sqlc cmd >> sqlc init
-- [ ] update sqlc.yml with config
-- [ ] migrate cmd>> migrate create -ext sql -dir db/migration -seq init_schema
-- [ ] add schema for desired database tables
-- [ ] create sqlc database query file(s). **db/query/user.sql
-- [ ] Makefile cmd >> make network
-- [ ] Makefile cmd >> make postgres
-- [ ] Makefile cmd >> make createdb
-- [ ] Makefile cmd >> make migrateup
-- [ ] To check config of database >>bash into docker postgres: psql >> \c dbdata >> \dt
-- [ ] Makefile cmd >> make sqlc
+- [ ] create viper config file >> util/config.go
+- [ ] create viper env file in the root dir >>app.env
+- [ ] create main_test.go file in db/sqlc folder
